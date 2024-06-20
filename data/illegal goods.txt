@@ -1,0 +1,149 @@
+category "outfit"
+	"Illegal Goods"
+
+outfit "Droid Parts"
+	category "Illegal Goods"
+	cost 40000
+	thumbnail "outfit/android"
+	mass 1
+	"installable" -1
+	illegal 1000000
+	description `Some illegal droid parts that is planned to be smelted, but for some people, this is a small goldmine, that can be sold.`
+	description `	Illegal goods always prohibited from any legal government, if you get caught holding one of these, they will fine you. Try to sell it on place with lower security system, like Alexandria, Furnace, or Arabia, or use Interference Plating to avoid scan.`
+
+outfit "Full Body Droid"
+	category "Illegal Goods"
+	cost 150000
+	thumbnail "outfit/android"
+	mass 1
+	"installable" -1
+	illegal 1000000
+	description `Good condition droid, that smuggled by some people for easy money, that can easily get them into trouble, that sometimes, take their life.`
+	description `	Illegal goods always prohibited from any legal government, if you get caught holding one of these, they will fine you. Try to sell it on place with lower security system, like Alexandria, Furnace, or Arabia, or use Interference Plating to avoid scan.`
+
+outfit "Hand-Held Weaponry Parts"
+	category "Illegal Goods"
+	cost 50000
+	thumbnail "outfit/laser rifle"
+	mass 1
+	"installable" -1
+	illegal 1000000
+	description `Illegal weaponry parts that used as the legal parts for hand-held weapon, but get plundered by some pirates.`
+	description `	Illegal goods always prohibited from any legal government, if you get caught holding one of these, they will fine you. Try to sell it on place with lower security system, like Alexandria, Furnace, or Arabia, or use Interference Plating to avoid scan.`
+
+outfit "Hand-Held Weapon"
+	category "Illegal Goods"
+	cost 175000
+	thumbnail "outfit/laser rifle"
+	mass 1
+	"installable" -1
+	illegal 1000000
+	description `Illegal weapon, result from plundering some patrol ships.`
+	description `	Illegal goods always prohibited from any legal government, if you get caught holding one of these, they will fine you. Try to sell it on place with lower security system, like Alexandria, Furnace, or Arabia, or use Interference Plating to avoid scan.`
+
+outfit "Happy Feel"
+	category "Illegal Goods"
+	cost 250000
+	thumbnail "effect/box-0"
+	mass 1
+	"installable" -1
+	illegal 10000000
+	description `Illegal drugs that use by some people to get high, not sure is this safe or not, but for some people, this is very safe (this statement is from the users).`
+	description `(This is a pack of the drugs, not ton).`
+	description `	Illegal goods always prohibited from any legal government, if you get caught holding one of these, they will fine you. Try to sell it on place with lower security system, like Alexandria, Furnace, or Arabia, or use Interference Plating to avoid scan.`
+
+outfit "World Dom"
+	category "Illegal Goods"
+	cost 400000
+	thumbnail "effect/box-0"
+	mass 1
+	"installable" -1
+	illegal 10000000
+	description `Illegal drugs, stronger than Happy Feel, will knock the users unconscious if they use too much.`
+	description `(This is a pack of the drugs, not ton).`
+	description `	Illegal goods always prohibited from any legal government, if you get caught holding one of these, they will fine you. Try to sell it on place with lower security system, like Alexandria, Furnace, or Arabia, or use Interference Plating to avoid scan.`
+
+outfit "Interstellar Dream"
+	category "Illegal Goods"
+	cost 700000
+	thumbnail "effect/box-0"
+	mass 1
+	"installable" -1
+	illegal 10000000
+	description `The rich people drugs, will make the users feels very light, like they got a burst of energy, making them can dance nonstop, up to 24 hours, but the aftereffects is the worst, they will feel drained, that anything they do won't recover their energy, making them want to use it again, and again, and again.`
+	description `(This is a pack of the drugs, not ton).`
+	description `	Illegal goods always prohibited from any legal government, if you get caught holding one of these, they will fine you. Try to sell it on place with lower security system, like Alexandria, Furnace, or Arabia, or use Interference Plating to avoid scan.`
+
+outfit "Endangered Animal Parts"
+	category "Illegal Goods"
+	cost 1500000
+	thumbnail "outfit/void sprite parts"
+	mass 1
+	"installable" -1
+	illegal 10000000
+	description `Illegal animal parts, like mammoth tusks, shark fin, elephant tusks, or any endangered animal parts, that usually make into rich people decorations.`
+	description `	Illegal goods always prohibited from any legal government, if you get caught holding one of these, they will fine you. Try to sell it on place with lower security system, like Alexandria, Furnace, or Arabia, or use Interference Plating to avoid scan.`
+
+outfit "War Droid"
+	category "Illegal Goods"
+	cost 2500000
+	thumbnail "outfit/android"
+	mass 1
+	"installable" -1
+	illegal 10000000
+	description `War droid that can easily destroy one city, is plundered by pirates, that is sold to some mafia, that want to make revenge against the government.`
+	description `	Illegal goods always prohibited from any legal government, if you get caught holding one of these, they will fine you. Try to sell it on place with lower security system, like Alexandria, Furnace, or Arabia, or use Interference Plating to avoid scan.`
+
+outfit "Unknown Ship Parts"
+	category "Illegal Goods"
+	cost 4000000
+	thumbnail "outfit/unknown"
+	mass 1
+	"installable" -1
+	illegal 100000000
+	description `Unknown ship parts that illegally smuggled by the pirates. No one know what ship, or who get it first, but one thing that the pirates know, it sells for good price.`
+	description `	Illegal goods always prohibited from any legal government, if you get caught holding one of these, they will fine you. Try to sell it on place with lower security system, like Alexandria, Furnace, or Arabia, or use Interference Plating to avoid scan.`
+
+outfit "Unknown Warship Parts"
+	category "Illegal Goods"
+	cost 7000000
+	thumbnail "outfit/unknown"
+	mass 1
+	"installable" -1
+	illegal 100000000
+	description `Parts of unknown ship, that looks like a weapon part, since it have barrel-like part. No one dare to dismantle it, because it will decrease the price of this item (What pirates know is only the high price, nothing else).`
+	description `	Illegal goods always prohibited from any legal government, if you get caught holding one of these, they will fine you. Try to sell it on place with lower security system, like Alexandria, Furnace, or Arabia, or use Interference Plating to avoid scan.`
+
+outfit "Human Organs"
+	category "Illegal Goods"
+	cost 10000000
+	thumbnail "outfit/unknown"
+	mass 1
+	"installable" -1
+	illegal 100000000
+	description `Illegal organs that is use for transplantation, sometimes get smuggled while in delivery. This organs will sold at high price, but the fine if you get caught with one of these is also high, making it an "high risk high profit" deal.`
+	description `(This is a piece of organs, not ton, no way you can get ton of eyes for trading, right?).`
+	description `	Illegal goods always prohibited from any legal government, if you get caught holding one of these, they will fine you. Try to sell it on place with lower security system, like Alexandria, Furnace, or Arabia, or use Interference Plating to avoid scan.`
+
+outfit "Unknown Organs"
+	category "Illegal Goods"
+	cost 20000000
+	thumbnail "outfit/unknown"
+	mass 1
+	"installable" -1
+	illegal 1000000000
+	description `Unknown part from some living creatures, no one knows what it is, but for some reason, it sold at high price, very high that one of these can make poor people, become very rich.` description `	(lets just say this is a piece, no way there's ton of organs ready to be sold).`
+	description `	Illegal goods always prohibited from any legal government, if you get caught holding one of these, they will fine you. Try to sell it on place with lower security system, like Alexandria, Furnace, or Arabia, or use Interference Plating to avoid scan.`
+
+outfit "Chemical Weapons"
+	category "Illegal Goods"
+	cost 50000000
+	thumbnail "outfit/nuke"
+	mass 1
+	"installable" -1
+	illegal 1000000000
+	atrocity 100000
+	description `Very lethal weapon that can be used to wipe out one planet, that's why, this weapon is very illegal, get caught owning this item will lead to execution.`
+	description `Once you get caught, there's no second chance, land on  planet, that own by government, that just scan your cargo, and your story will be end, just like that.`
+	description `	Illegal goods always prohibited from any legal government, if you get caught holding one of these, they will fine you. Try to sell it on place with lower security system, like Alexandria, Furnace, or Arabia, or use Interference Plating to avoid scan.`
+  
