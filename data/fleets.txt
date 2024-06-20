@@ -1,0 +1,194 @@
+
+fleet "TRADER ILLEGAL I"
+	government "Merchant (Illegal Goods I)"
+	names "civilian"
+	cargo 3
+	personality
+		confusion 40
+		timid frugal appeasing
+	variant 70
+		"Star Barge (DP)"
+		"Marauder Arrow (Weapons)" 4
+	variant 70
+		"Star Barge (FBD)"
+		"Marauder Arrow (Weapons)" 4
+	variant 70
+		"Star Barge (WP)"
+		"Marauder Arrow (Weapons)" 4
+	variant 70
+		"Star Barge (HW)"
+		"Marauder Arrow (Weapons)" 4
+	variant 70
+		"Star Barge (HF)"
+		"Marauder Arrow (Weapons)" 4
+	variant 70
+		"Star Barge (WD)"
+		"Marauder Arrow (Weapons)" 4
+
+
+fleet "TRADER ILLEGAL II"
+	government "Merchant (Illegal Goods II)"
+	names "civilian"
+	cargo 3
+	personality
+		confusion 40
+		timid frugal appeasing
+	variant 70
+		"Star Barge (HF)"
+		"Marauder Bounder (Weapons)" 4
+	variant 70
+		"Star Barge (WD)"
+		"Marauder Bounder (Weapons)" 4
+	variant 50
+		"Freighter (DP)"
+		"Marauder Quicksilver (Weapons)" 4
+	variant 50
+		"Freighter (FBD)"
+		"Marauder Quicksilver (Weapons)" 4
+	variant 50
+		"Freighter (WP)"
+		"Marauder Quicksilver (Weapons)" 4
+	variant 50
+		"Freighter (HW)"
+		"Marauder Quicksilver (Weapons)" 4
+	variant 50
+		"Freighter (HF)"
+		"Marauder Quicksilver (Weapons)" 4
+	variant 50
+		"Freighter (WD)"
+		"Marauder Quicksilver (Weapons)" 4
+	variant 40
+		"Freighter (ID)"
+		"Marauder Quicksilver (Weapons)" 4
+	variant 40
+		"Freighter (EAP)"
+		"Marauder Quicksilver (Weapons)" 4
+
+
+fleet "TRADER ILLEGAL III"
+	government "Merchant (Illegal Goods III)"
+	names "civilian"
+	cargo 3
+	personality
+		confusion 40
+		timid frugal appeasing
+	variant 70
+		"Freighter (ID)"
+		"Marauder Raven (Weapons)" 4
+	variant 70
+		"Freighter (EAP)"
+		"Marauder Raven (Weapons)" 4
+	variant 40
+		"Bulk Freighter (DP)"
+		"Marauder Manta (Weapons)" 4
+	variant 40
+		"Bulk Freighter (FBD)"
+		"Marauder Manta (Weapons)" 4
+	variant 40
+		"Bulk Freighter (WP)"
+		"Marauder Manta (Weapons)" 4
+	variant 40
+		"Bulk Freighter (HW)"
+		"Marauder Manta (Weapons)" 4
+	variant 40
+		"Bulk Freighter (HF)"
+		"Marauder Manta (Weapons)" 4
+	variant 40
+		"Bulk Freighter (WD)"
+		"Marauder Manta (Weapons)" 4
+	variant 40
+		"Bulk Freighter (ID)"
+		"Marauder Splinter (Weapons)" 4
+	variant 40
+		"Bulk Freighter (EAP)"
+		"Marauder Splinter (Weapons)" 4
+	variant 30
+		"Bulk Freighter (WaD)"
+		"Marauder Splinter (Weapons)" 4
+	variant 30
+		"Bulk Freighter (USP)"
+		"Marauder Splinter (Weapons)" 4
+
+
+fleet "TRADER ILLEGAL IV"
+	government "Merchant (Illegal Goods IV)"
+	names "civilian"
+	cargo 3
+	personality
+		confusion 40
+		timid frugal appeasing
+	variant 70
+		"Bulk Freighter (ID)"
+		"Marauder Firebird (Weapons)" 4
+	variant 70
+		"Bulk Freighter (EAP)"
+		"Marauder Firebird (Weapons)" 4
+	variant 70
+		"Bulk Freighter (WaD)"
+		"Marauder Firebird (Weapons)" 4
+	variant 70
+		"Bulk Freighter (USP)"
+		"Marauder Firebird (Weapons)" 4
+	variant 50
+		"Bactrian (DP)"
+		"Marauder Falcon (Weapons)" 4
+	variant 50
+		"Bactrian (FBD)"
+		"Marauder Falcon (Weapons)" 4
+	variant 50
+		"Bactrian (WP)"
+		"Marauder Falcon (Weapons)" 4
+	variant 50
+		"Bactrian (HW)"
+		"Marauder Falcon (Weapons)" 4
+	variant 50
+		"Bactrian (HF)"
+		"Marauder Falcon (Weapons)" 4
+	variant 50
+		"Bactrian (WD)"
+		"Marauder Falcon (Weapons)" 4
+	variant 50
+		"Bactrian (ID)"
+		"Marauder Falcon (Weapons)" 4
+	variant 50
+		"Bactrian (EAP)"
+		"Marauder Falcon (Weapons)" 4
+	variant 50
+		"Bactrian (WaD)"
+		"Marauder Falcon (Weapons)" 4
+	variant 50
+		"Bactrian (USP)"
+		"Marauder Falcon (Weapons)" 4
+	variant 40
+		"Bactrian (UWP)"
+		"Marauder Leviathan (Weapons)" 4
+	variant 40
+		"Bactrian (HO)"
+		"Marauder Leviathan (Weapons)" 4
+	variant 30
+		"Bactrian (UO)"
+		"Marauder Leviathan (Weapons)" 6
+	variant 30
+		"Bactrian (CW)"
+		"Marauder Leviathan (Weapons)" 6
+
+
+fleet "TRADER ILLEGAL V"
+	government "Merchant (Illegal Goods V)"
+	names "civilian"
+	cargo 3
+	personality
+		confusion 40
+		timid frugal appeasing
+	variant 20
+		"Bactrian (UWP)" 2
+		"Bactrian (Hai Weapons)" 6
+	variant 20
+		"Bactrian (HO)" 2
+		"Bactrian (Hai Weapons)" 6
+	variant 5
+		"Bactrian (UO)" 2
+		"Bactrian (Hai Weapons)" 10
+	variant 5
+		"Bactrian (CW)" 2
+		"Bactrian (Hai Weapons)" 10

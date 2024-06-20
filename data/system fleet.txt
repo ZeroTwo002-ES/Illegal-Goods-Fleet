@@ -1,0 +1,47 @@
+
+system Aldhibain
+	add fleet "TRADER ILLEGAL I" 1000
+	add fleet "TRADER ILLEGAL II" 1250
+
+system Alphard
+	add fleet "TRADER ILLEGAL III" 1950
+
+system "Epsilon Leonis"
+	add fleet "TRADER ILLEGAL IV" 9000
+	add fleet "TRADER ILLEGAL V" 12000
+
+system Mirfak
+	add fleet "TRADER ILLEGAL IV" 7000
+	add fleet "TRADER ILLEGAL V" 13500
+
+system Naos
+	add fleet "TRADER ILLEGAL I" 2150
+	add fleet "TRADER ILLEGAL V" 8500
+
+system Pherkad
+	add fleet "TRADER ILLEGAL I" 2500
+	add fleet "TRADER ILLEGAL II" 5250
+
+system Phurad
+	add fleet "TRADER ILLEGAL I" 3000
+
+system Polaris
+	add fleet "TRADER ILLEGAL III" 3500
+	add fleet "TRADER ILLEGAL IV" 6500
+	add fleet "TRADER ILLEGAL V" 9000
+
+system Rutilicus
+	add fleet "TRADER ILLEGAL I" 2000
+
+system Scheat
+	add fleet "TRADER ILLEGAL I" 1500
+	add fleet "TRADER ILLEGAL II" 4000
+
+system Sol
+	add fleet "TRADER ILLEGAL IV" 5000
+	add fleet "TRADER ILLEGAL V" 10000
+
+system Tarazed
+	add fleet "TRADER ILLEGAL I" 1000
+	add fleet "TRADER ILLEGAL II" 1750
+	add fleet "TRADER ILLEGAL III" 3750
